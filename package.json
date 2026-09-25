@@ -1,0 +1,13 @@
+{
+  "name": "wingo-api",
+  "version": "1.0.0",
+  "description": "Wingo Period API Proxy — Developed by Aditya",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18.x"
+  },
+  "author": "Aditya",
+  "license": "MIT"
+}
